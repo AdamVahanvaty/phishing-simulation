@@ -37,5 +37,5 @@ git clone https://github.com/AdamVahanvaty/phishing-simulation.git
 cd phishing-simulation
 pip install flask
 python phishing_simulation.py
-
+```
 Open your browser and navigate to http://localhost:5000
