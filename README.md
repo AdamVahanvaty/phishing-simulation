@@ -33,7 +33,9 @@ Clicking any of these links leads to a failure page explaining the specific phis
 To run this simulation locally:
 
 ```bash
-git clone https://github.com/your-username/phishing-simulation.git
+git clone https://github.com/AdamVahanvaty/phishing-simulation.git
 cd phishing-simulation
 pip install flask
 python phishing_simulation.py
+
+Open your browser and navigate to http://localhost:5000
