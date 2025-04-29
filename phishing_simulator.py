@@ -248,10 +248,6 @@ failure_page = '''
         <p>Stay cautious when dealing with unexpected requests, especially involving money, confidential information, or urgency.</p>
 
         <a href="/" class="btn">Back to Inbox</a>
-        
-        <div class="footer">
-            <p>&copy; 2025 Phishing Simulation. All rights reserved.</p>
-        </div>
     </div>
 
 </body>
